@@ -23,3 +23,9 @@ Just started learning all of this.
    }
   }
 ```
+## **Work experience**:
+Don't have yet
+## **Education**:
+Just started learning Front-End at RS School
+## **Language**:
+English - A2
