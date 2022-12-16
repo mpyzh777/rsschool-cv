@@ -1,8 +1,7 @@
 @font-face {
-    font-family: Lora-Regular;
-     src: url("assets/fonts/Lora-Regular.ttf");
+    font-family: BRLNSDB;
+     src: url("assets/fonts/BRLNSDB.ttf");
    }
-
 
 * {
     box-sizing: border-box;
@@ -36,4 +35,9 @@
   .nav-link {
     padding: 0 20px;
     line-height: 50px;
+  }
+
+  :hover
+  .nav-link {
+    transition: .3s;
   }
